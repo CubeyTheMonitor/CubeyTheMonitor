@@ -27,7 +27,15 @@ I like
 [twitter.com/@CubeyTheMonitor](https://twitter.com/@CubeyTheMonitor)
 
 ## Computer Language
-I know LUA a little (from roblox and i still don't know about tables) and I'm learning C# and possibly html css and javascript!
+> Language I know
+- LUA (from Roblox and still don't know tables and for loops)
+> Language I'm still learning
+- C#
+**and possibly**
+- HTML
+- CSS
+- JavaScript
+
 
 ## IRL Languages and region
 I'm from Thailand and I can speak Thai (obviously) and english!
