@@ -25,4 +25,3 @@ https://www.youtube.com/@bitzybeepin (design channel)
 
 twitter.com/@CubeyTheMonitor
 
-thefirez.rf.gd
