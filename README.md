@@ -5,7 +5,8 @@ Welcome to my profile!
 - [About Me](#about-me)
 - [Likes and favorites](#likes-and-favorites)
 - [My social media](#my-social-media)
-
+- [Computer Language](#computer-language)
+- [IRL Languages and region](#irl-languages-and-region)
 ## About me
 I'm a young teenager who loves to script and design! I also love computer related stuff also! (that is also fun)
 
@@ -25,3 +26,8 @@ I like
 
 [twitter.com/@CubeyTheMonitor](https://twitter.com/@CubeyTheMonitor)
 
+## Computer Language
+I know LUA a little (from roblox and i still don't know about tables) and I'm learning C# and possibly html css and javascript!
+
+## IRL Languages and region
+I'm from Thailand and I can speak Thai (obviously) and english!
