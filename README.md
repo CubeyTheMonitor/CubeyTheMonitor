@@ -4,7 +4,7 @@ Welcome to my profile!
 > Contents
 - [About Me](#about-me)
 - [Likes and favorites](#likes-and-favorites)
-- [My social media](#mysocialmedia)
+- [My social media](#my-social-media)
 
 ## About me
 I'm a young teenager who loves to script and design! I also love computer related stuff also! (that is also fun)
