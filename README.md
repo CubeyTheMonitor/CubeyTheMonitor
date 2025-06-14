@@ -20,6 +20,9 @@ I like
 
 ## My social media
 youtube.com/@CubeyTheMonitor (rip that other channel)
+
 https://www.youtube.com/@bitzybeepin (design channel)
+
 twitter.com/@CubeyTheMonitor
+
 thefirez.rf.gd
