@@ -22,9 +22,9 @@ I like
 ## My social media
 [youtube.com/@CubeyTheMonitor](https://youtube.com/@CubeyTheMonitor) (rip that other channel)
 
-[youtube.com/@bitzybeepin](https://youtube.com/@bitzybeepin) (design channel)
-
 [twitter.com/@CubeyTheMonitor](https://twitter.com/@CubeyTheMonitor)
+
+[roblox.com/Firez](https://www.roblox.com/users/1502540753/profile)
 
 ## Computer Language
 > Language I know
